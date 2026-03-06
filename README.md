@@ -1,4 +1,5 @@
 #JSON Refiner Advanced Edition
+
 #Description
 
 JSON Refiner Advanced Edition is a Python-based JSON processing tool with a Gradio interface. It helps users convert unstructured key-value data into structured JSON with automatic type detection and validation.
